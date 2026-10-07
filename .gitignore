@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.zip
+*.tar
+*.gz
+*.bin
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
