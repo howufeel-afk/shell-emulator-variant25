@@ -1,0 +1,13 @@
+vfs-info
+ls
+ls "home/user"
+cd home/user
+head -n 2 notes.txt
+du
+uptime
+mv notes.txt "notes_renamed.txt"
+ls
+cd missing_dir
+head -n invalid notes.txt
+unknown_command
+exit
